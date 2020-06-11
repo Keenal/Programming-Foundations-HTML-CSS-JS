@@ -1,0 +1,13 @@
+#center {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#h1tag {
+  color: #40ff00;
+}
