@@ -1,6 +1,7 @@
 // write your code here
-var yellowImage = new SimpleImage(200,200);
-
+var yellowImage = new SimpleImage(100,100);
+print("Before Transformation:");
+print(yellowImage);
 for(var pixel of yellowImage.values()) {
     var red = 255 - pixel.getRed();
     pixel.setRed(red);
@@ -9,7 +10,7 @@ for(var pixel of yellowImage.values()) {
     var blue = 0;
     pixel.setBlue(blue);
 }
-
+print("After Transformation:");
 print(yellowImage);
     
     
