@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+}
+
+div {
+	background-color: black;
+	width: 50px;
+	margin: 10px;
+}
+#d1 {
+	color: #42f55a;
+	font: sans-serif;
+	font-size: 18px;
+}
