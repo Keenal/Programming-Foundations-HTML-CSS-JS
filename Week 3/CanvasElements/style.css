@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+}
+
+canvas {
+	background-color: black;
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	border: 1px solid black;
+}
+#d1 {
+	font: sans-serif;
+	font-size: 18px;
+}
+
+.orangeback {
+	background-color: orange;
+}
+
+.greenback {
+	background-color: brown;
+}
+
+.blueback {
+	background-color: blue;
+}
+
+.yellowback {
+	background-color: yellow;
+}
