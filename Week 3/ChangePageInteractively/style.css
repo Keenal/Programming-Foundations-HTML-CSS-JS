@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+
+div {
+	background-color: black;
+	width: 50px;
+	margin: 10px;
+}
+#d1 {
+	font: sans-serif;
+	font-size: 18px;
+}
+
+.orangeback {
+	background-color: orange;
+}
+
+.greenback {
+	background-color: green;
+}
+
+.blueback {
+	background-color: blue;
+}
+
+.yellowback {
+	background-color: yellow;
+}
