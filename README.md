@@ -1,7 +1,7 @@
 # Programming-Foundations-HTML-CSS-JS
 
 ### Description
-This is a foundational course on HTML, CSS and Javascript provided by the Duke University. The course is offered on [Coursera.org.][coursera]
+This is a foundational course on HTML, CSS and Javascript provided by the Duke University. The course is offered on [Coursera.org.][coursera]. It is part of a Software Engineering specialization. 
 
 ### Structure
 The structure of the code is different because it is entered into custom environments which provide immediate feedback of the code. 
