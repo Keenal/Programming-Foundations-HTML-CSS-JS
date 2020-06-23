@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: coral;
+}
+
+body {
+    color: cornflowerblue;
+    margin: 10px;
+}
+
+canvas {
+	width: 400px;
+	height: 250px;
+	margin: 10px;
+	border: 1px solid black;
+}
