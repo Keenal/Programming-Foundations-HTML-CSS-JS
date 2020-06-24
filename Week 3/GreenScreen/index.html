@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Week 3
+	</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="script.js"></script>
+	<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+</head>
+
+	<h1>Hello!</h1>
+
+	<canvas id="canvasfg">
+		
+    </canvas>
+    
+    <canvas id="canvasbg">
+
+    </canvas>
+
+    <input type="file" multiple="false" accept="image/*" id="foreground" onchange="loadfgImage()">
+
+    <input type="file" multiple="false" accept="image/*" id="background" onchange="loadbgImage()">
+    
+    <input type="button" value="Create Composites" onclick="doGreenScreen()">
+    <input type="button" value="Clear Canvases" onclick="clearCanvas()">
+
+</body>
+
+</html>
