@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+    padding: 0px 0px 10px 10px;
+}
+#canvasInput {
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+}
+
+#canvasOutput {
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+}
+
+.filter {
+    padding: 0px 0px 10px 0px;
+}
+
+.reset {
+    padding: 10px 0px 10px 0px;
+}
