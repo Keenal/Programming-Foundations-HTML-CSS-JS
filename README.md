@@ -4,7 +4,7 @@
 This is a foundational course on HTML, CSS and Javascript provided by the Duke University. The course is offered on [Coursera.org.][coursera] It is part 1 of a Software Engineering specialization. 
 
 ### Structure
-The structure of the code is different because it is entered into custom environments which provide immediate feedback of the code. 
+The structure of the code is different because it is entered into custom environments which provide immediate feedback of the code. The output for every assignment/project has been provided.
 
 ### Tools
 - [CodePen] and [Visual Studio Code] were used as IDEs for coding in HTML/CSS/JS.
